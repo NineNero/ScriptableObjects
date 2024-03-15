@@ -255,6 +255,10 @@ PrefabInstance:
       value: -75
       objectReference: {fileID: 0}
     - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 1031526939}
+    - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 1186707031}
@@ -419,6 +423,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -75
       objectReference: {fileID: 0}
+    - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 1031526939}
     - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
       propertyPath: deleteButton
       value: 
@@ -2163,6 +2171,10 @@ PrefabInstance:
       value: -75
       objectReference: {fileID: 0}
     - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 1031526939}
+    - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 1186707031}
@@ -2640,6 +2652,10 @@ PrefabInstance:
       value: -75
       objectReference: {fileID: 0}
     - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 1031526939}
+    - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 1186707031}
@@ -2815,6 +2831,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -75
       objectReference: {fileID: 0}
+    - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 1031526939}
     - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
       propertyPath: deleteButton
       value: 
@@ -3090,6 +3110,10 @@ PrefabInstance:
       value: -75
       objectReference: {fileID: 0}
     - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 1031526939}
+    - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 1186707031}
@@ -3254,6 +3278,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -75
       objectReference: {fileID: 0}
+    - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 1031526939}
     - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
       propertyPath: deleteButton
       value: 
@@ -3442,6 +3470,10 @@ PrefabInstance:
       value: -75
       objectReference: {fileID: 0}
     - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 1031526939}
+    - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 1186707031}
@@ -3606,6 +3638,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -75
       objectReference: {fileID: 0}
+    - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 1031526939}
     - target: {fileID: 8779182005976711751, guid: 036d1fecee6cb2048b2d452bd5e97dd5, type: 3}
       propertyPath: deleteButton
       value: 
